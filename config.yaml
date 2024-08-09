@@ -18,8 +18,8 @@ md_readme_path: 'README.md'
 
 
 keywords:
-    "agent":
-        filters: [LLM based agents,Large Language Model based agents,LLM agent]
+    "rag":
+        filters: [Retrieval-Augmented Generation,LLM RAG,KG]
     "llm":
         filters: ["Large Language Model"]
 
